@@ -14,20 +14,6 @@ This repository contains Java coursework assignments that demonstrate programmin
 
 ---
 
-## Assignments Included  
-
-1. **Homework 2 – Data Types**  
-   - **CHomework2A.java**: Displays a constant and a variable to the console.  
-   - **CHomework2B.java**: Prints minimum and maximum values for numeric data types (`short`, `int`, `long`, `float`) and demonstrates overflow/underflow.  
-
-2. **Homework 3 – Age, Earth, Water**  
-   - **Homework3.java**:  
-     - Problem 1: Calculates a person’s age in seconds.  
-     - Problem 2: Calculates the volumes of the Sun and Earth, then computes the ratio.  
-     - Problem 3: Estimates the number of molecules in 2.45 quarts of water.  
-
----
-
 ## Skills Demonstrated 
 - Object-Oriented Programming (OOP)
 - Java syntax and structure
@@ -54,4 +40,4 @@ This repository contains Java coursework assignments that demonstrate programmin
 2. Compile the program using:  
    ```bash
    javac FileName.java# java-projects
-Java coursework assignments covering programming fundamentals, loops, and OOP skills.
+

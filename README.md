@@ -1,10 +1,11 @@
-# Java Class Assignments
+# Java Projects
 
 ## Author  
 Ashley Otero  
 
 ## Course  
-Fall 2025 – Java Programming I (IT-161-400)  
+Fall 2025 – Java Programming 1
+Spring 2026- Java Programming 2
 
 ---
 
@@ -27,8 +28,18 @@ This repository contains Java coursework assignments that demonstrate programmin
 
 ---
 
-## Skills Demonstrated  
-- Java syntax and structure  
+## Skills Demonstrated 
+- Object-Oriented Programming (OOP)
+- Java syntax and structure
+- Inheritance and polymorphism
+- Exception handling
+- File input/ output
+- Arrays and ArrayLists
+- Methods and modular programming
+- GUI development with Java wing
+- SQL database connectivity
+- Debugging and troubleshooting
+- IDE development
 - Use of constants and variables  
 - Arithmetic operations and expressions  
 - Casting with `float` and use of `Math.pow()`  
